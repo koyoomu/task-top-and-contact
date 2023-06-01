@@ -350,6 +350,9 @@ footer p{
   .container_06 {
     margin-bottom: 40px;
   }
+  .container_06 li {
+    font-size: 16px;
+  }
   .border ul {
     font-size: 16px;
     display: flex;
